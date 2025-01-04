@@ -1,0 +1,10 @@
+[package]
+name = "GDXD"
+version = "0.1.0"
+build = "build.rs"
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
