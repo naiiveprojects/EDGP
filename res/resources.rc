@@ -12,8 +12,8 @@ BEGIN
         BLOCK "040904b0"
         BEGIN
             VALUE "CompanyName", "NAIIVE\0"
-            VALUE "FileDescription", "GDXD\0"
-            VALUE "ProductName", "GDXD\0"
+            VALUE "FileDescription", "GXD Utility\0"
+            VALUE "ProductName", "GXD\0"
             VALUE "FileVersion", "1.0.0.0\0"
         END
     END
