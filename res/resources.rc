@@ -12,7 +12,7 @@ BEGIN
         BLOCK "040904b0"
         BEGIN
             VALUE "CompanyName", "NAIIVE\0"
-            VALUE "FileDescription", "eXecute / Debug gdX Project\0"
+            VALUE "FileDescription", "execute or debug gdx programs\0"
             VALUE "ProductName", "XDXP\0"
             VALUE "FileVersion", "1.0.0.0\0"
         END
